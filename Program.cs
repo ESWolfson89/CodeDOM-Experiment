@@ -1,4 +1,4 @@
-﻿// CodeDOM exercise (Eric Wolfson 2016)
+﻿// CodeDOM exercise - (Written in 2016, posted: 2018)
 // Does three things
 // 1) Autogenerates code containing a function that adds 2 parameters (integers) "add2integers.cs"
 // 2) Compiles the code into a dll file "libraryadd2ints.dll"
